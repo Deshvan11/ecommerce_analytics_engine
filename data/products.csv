@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock_qty
+1,Wireless Ergonomic Mouse,Electronics,49.99,150
+2,Mechanical Gaming Keyboard,Electronics,89.99,200
+3,Ultra-Wide 34-inch Monitor,Electronics,399.99,45
+4,Noise-Canceling Headphones,Electronics,199.99,80
+5,USB-C Docking Station,Electronics,129.99,60
+6,Smart LED Desk Lamp,Home,34.99,220
+7,Ergonomic Office Chair,Home,249.99,30
+8,Standing Desk Converter,Home,179.99,25
+9,Stainless Steel Kettle,Home,45.00,110
+10,Memory Foam Pillow,Home,59.99,90
+11,Python Crash Course Book,Books,39.99,150
+12,Clean Code Handbook,Books,44.99,130
+13,Designing Data-Intensive Apps,Books,49.99,95
+14,Introduction to Algorithms,Books,85.00,50
+15,Machine Learning Yearning,Books,29.99,200
+16,Running Shoes Pro,Sports,119.99,75
+17,Adjustable Dumbbell Set,Sports,199.99,40
+18,Yoga Mat Premium,Sports,29.99,300
+19,Resistance Bands Kit,Sports,19.99,250
+20,Stainless Water Bottle,Sports,24.99,180
+21,Bluetooth Speaker Portable,Electronics,59.99,140
+22,4K Action Camera,Electronics,299.99,55
+23,External SSD 1TB,Electronics,109.99,120
+24,Wireless Charging Pad,Electronics,25.99,210
+25,Smartwatch Series 5,Electronics,249.99,65
+26,Air Purifier HEPA,Home,129.99,40
+27,Espresso Machine,Home,349.99,20
+28,Robot Vacuum Cleaner,Home,299.99,35
+29,Non-Stick Cookware Set,Home,149.99,50
+30,Cast Iron Skillet,Home,39.99,100
+31,Deep Learning with PyTorch,Books,54.99,80
+32,SQL Performance Explained,Books,42.99,110
+33,System Design Interview,Books,49.99,140
+34,The Pragmatic Programmer,Books,45.00,160
+35,Refactoring Code,Books,48.00,90
+36,Cycling Helmet,Sports,49.99,85
+37,Fitness Tracker Band,Sports,69.99,130
+38,Pro Tennis Racket,Sports,129.99,45
+39,Camping Tent 4-Person,Sports,189.99,25
+40,Hydration Backpack,Sports,54.99,95
+41,Graphic Tablet Pro,Electronics,219.99,50
+42,Smart Wi-Fi Plug,Electronics,19.99,300
+43,HD Security Camera,Electronics,79.99,115
+44,True Wireless Earbuds,Electronics,89.99,160
+45,Thunderbolt 4 Cable,Electronics,39.99,240
+46,Boutique French Press,Home,32.99,120
+47,Bamboo Cutlery Organizer,Home,22.99,150
+48,Smart Thermostat,Home,179.99,60
+49,LED Strip Lights 10m,Home,27.99,200
+50,Ceramic Dinnerware Set,Home,89.99,70
